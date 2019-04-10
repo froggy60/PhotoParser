@@ -1,0 +1,2 @@
+﻿
+Plus d'échantillons d'images de visages peuvent être téléchargés sur http://vision.ucsd.edu/content/yale-face-database
